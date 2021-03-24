@@ -102,9 +102,9 @@ nav{
     top: 690px;
     bottom: 40px;
 }
-.six{ /*link*/
-    bottom: 140px;
-    right: 250px;
+.six{ /*achieve*/
+    bottom: 200px;
+    right: 200px;
     transform: rotate(-300deg);
 }
 .six a{
